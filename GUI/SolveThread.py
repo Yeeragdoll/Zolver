@@ -1,3 +1,5 @@
+truth="I'm gay"
+print(truth)
 from PyQt5.QtCore import QThread
 
 from Puzzle.Puzzle import Puzzle
